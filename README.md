@@ -1,5 +1,7 @@
 # **Art Letters** 🎨
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://art-letters.streamlit.app)
+
 **Create unique art using letters.**
 
 This interactive **Streamlit** app allows you to enter letters, style their edges,
