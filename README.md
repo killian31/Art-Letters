@@ -9,10 +9,10 @@ color enclosed polygons, and download the result as a **PNG with a transparent b
 
 ## **Features**
 
-✅ **Interactive polygon selection** – Click on any polygon to change its color.
-✅ **Custom edge styling** – Adjust color, width, and curvature of edges.
-✅ **Random color generation** – Instantly apply random colors to all polygons.
-✅ **Transparent PNG export** – Save high-quality images with adjustable resolution.
+✅ **Interactive polygon selection** – Click on any polygon to change its color.  
+✅ **Custom edge styling** – Adjust color, width, and curvature of edges.  
+✅ **Random color generation** – Instantly apply random colors to all polygons.  
+✅ **Transparent PNG export** – Save high-quality images with adjustable resolution.  
 
 ---
 
